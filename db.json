@@ -17,6 +17,6 @@
   "OrderDetail": {
     "OrderNo": "12345",
     "OrderDate": "20190819",
-    "OrderName": "thang"
+    "CustomerName": "thang"
   }
 }
