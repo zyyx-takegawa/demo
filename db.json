@@ -13,5 +13,10 @@
   },
   "WG01-09": {
     "url": "https://static2.clutch.co/s3fs-public/logos/zyyx_0.png"
+  },
+  "OrderDetail": {
+    "OrderNo": "12345",
+    "OrderDate": "20190819",
+    "OrderName": "thang"
   }
 }
