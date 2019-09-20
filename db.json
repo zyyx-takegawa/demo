@@ -20,43 +20,132 @@
     "CustomerName": "thang"
   },
   "WG00-02": {
-      "areas": [
-                {
-                  "name": "京都",
-                  "stores":
-                            [
-                              "京都駅前京都タワー店",
-                              "祇園四条店",
-                              "清水坂店",
-                              "清水茶わん坂店",
-                              "清水茶わん坂店",
-                              "嵐山渡月橋店"
-                            ]         
-                },
-                {
-                  "name": "大阪",
-                  "stores":
-                            [
-                              "大阪大丸心斎橋店",
-                              "祇園四条店",
-                              "清水坂店",
-                              "清水茶わん坂店",
-                              "清水茶わん坂店",
-                              "嵐山渡月橋店"
-                            ]         
-                },
-                {
-                  "name": "東京",
-                  "stores":
-                            [
-                              "大阪大丸心斎橋店",
-                              "祇園四条店",
-                              "清水坂店",
-                              "清水茶わん坂店",
-                              "清水茶わん坂店",
-                              "嵐山渡月橋店"
-                            ]         
-                }
-              ]
+    "areas": [
+      {
+        "id": 0,
+        "name": "京都",
+        "stores": [
+          {
+            "store_id": 1,
+            "store_name": "京都駅前京都タワー店"
+          },
+          {
+            "store_id": 2,
+            "store_name": "祇園四条店"
+          },
+          {
+            "store_id": 3,
+            "store_name": "清水坂店"
+          },
+          {
+            "store_id": 4,
+            "store_name": "清水茶わん坂店"
+          },
+          {
+            "store_id": 5,
+            "store_name": "嵐山渡月橋店"
+          },
+          {
+            "store_id": 6,
+            "store_name": "京都駅前京都タワー店"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "大阪",
+        "stores": [
+          {
+            "store_id": 1,
+            "store_name": "京都駅前京都タワー店"
+          },
+          {
+            "store_id": 2,
+            "store_name": "祇園四条店"
+          },
+          {
+            "store_id": 3,
+            "store_name": "清水坂店"
+          },
+          {
+            "store_id": 4,
+            "store_name": "清水茶わん坂店"
+          },
+          {
+            "store_id": 5,
+            "store_name": "嵐山渡月橋店"
+          },
+          {
+            "store_id": 6,
+            "store_name": "京都駅前京都タワー店"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "東京",
+        "stores": [
+          {
+            "store_id": 1,
+            "store_name": "京都駅前京都タワー店"
+          },
+          {
+            "store_id": 2,
+            "store_name": "祇園四条店"
+          },
+          {
+            "store_id": 3,
+            "store_name": "清水坂店"
+          },
+          {
+            "store_id": 4,
+            "store_name": "清水茶わん坂店"
+          },
+          {
+            "store_id": 5,
+            "store_name": "嵐山渡月橋店"
+          },
+          {
+            "store_id": 6,
+            "store_name": "京都駅前京都タワー店"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "VN",
+        "stores": [
+          {
+            "store_id": 1,
+            "store_name": "A"
+          },
+          {
+            "store_id": 2,
+            "store_name": "B"
+          },
+          {
+            "store_id": 3,
+            "store_name": "C"
+          },
+          {
+            "store_id": 4,
+            "store_name": "D"
+          },
+          {
+            "store_id": 5,
+            "store_name": "E"
+          },
+          {
+            "store_id": 6,
+            "store_name": "F"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "TQ",
+        "stores": []
+      }
+    ]
   }
 }
