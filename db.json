@@ -25,6 +25,27 @@
       [
           {"key": "HelloWorld", "value": "HelloWorld"}
       ]
+      }, 
+      {
+      "code": "zh-CN",
+      "content": 
+      [
+          {"key": "HelloWorld", "value": "HelloWorld"}
+      ]
+      }, 
+      {
+      "code": "zh-HK",
+      "content": 
+      [
+          {"key": "HelloWorld", "value": "HelloWorld"}
+      ]
+      }, 
+      {
+      "code": "ko-KR",
+      "content": 
+      [
+          {"key": "HelloWorld", "value": "HelloWorld"}
+      ]
       }
   ],
   "OrderDetail": {
