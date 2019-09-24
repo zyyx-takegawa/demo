@@ -11,9 +11,22 @@
   "WG01-07": {
     "url": "https://static2.clutch.co/s3fs-public/logos/zyyx_0.png"
   },
-  "WG01-09": {
-    "url": "https://static2.clutch.co/s3fs-public/logos/zyyx_0.png"
-  },
+  "Languages": [
+      {
+      "code": "ja-JP",
+      "content": 
+      [
+          {"key": "HelloWorld", "value": "こんにちは"}
+      ]
+      }, 
+      {
+      "code": "en-US",
+      "content": 
+      [
+          {"key": "HelloWorld", "value": "HelloWorld"}
+      ]
+      }
+  ],
   "OrderDetail": {
     "OrderNo": "12345",
     "OrderDate": "20190819",
