@@ -147,5 +147,23 @@
         "stores": []
       }
     ]
-  }
+  },
+
+
+  "Languages": [
+      {
+      "code": "ja-JP",
+      "content": 
+      [
+          {"key": "HelloWorld", "value": "こんにちは"}
+      ]
+      }, 
+      {
+      "code": "en-US",
+      "content": 
+      [
+          {"key": "HelloWorld", "value": "HelloWorld"}
+      ]
+      }
+  ]
 }
