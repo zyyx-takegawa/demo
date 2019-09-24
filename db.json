@@ -16,35 +16,60 @@
       "code": "ja-JP",
       "content": 
       [
-          {"key": "HelloWorld", "value": "こんにちは"}
+          {"key": "HelloWorld", "value": "こんにちは"},
+          {"key": "ReservationNumber", "value": "予約番号"},
+          {"key": "Back", "value": "戻る"},
+          {"key": "NotOrderYet", "value": "予約されていない方は"},
+          {"key": "DontRemember", "value": "予約番号を忘れた方は"},
+          {"key": "Here", "value": "こちら"}
       ]
       }, 
       {
       "code": "en-US",
       "content": 
       [
-          {"key": "HelloWorld", "value": "HelloWorld"}
+          {"key": "HelloWorld", "value": "HelloWorld"},
+          {"key": "ReservationNumber", "value": "Reservation Numbser"},
+          {"key": "Back", "value": "戻る"},
+          {"key": "NotOrderYet", "value": "Unreserved customers"},
+          {"key": "DontRemember", "value": "Reservation Number Not Remember"},
+          {"key": "Here", "value": "Here"}
       ]
       }, 
       {
       "code": "zh-CN",
       "content": 
       [
-          {"key": "HelloWorld", "value": "HelloWorld"}
+          {"key": "HelloWorld", "value": "こんにちは"},
+          {"key": "ReservationNumber", "value": "予約番号"},
+          {"key": "Back", "value": "戻る"},
+          {"key": "NotOrderYet", "value": "予約されていない方は"},
+          {"key": "DontRemember", "value": "予約番号を忘れた方は"},
+          {"key": "Here", "value": "こちら"}
       ]
       }, 
       {
       "code": "zh-HK",
       "content": 
       [
-          {"key": "HelloWorld", "value": "HelloWorld"}
+          {"key": "HelloWorld", "value": "こんにちは"},
+          {"key": "ReservationNumber", "value": "予約番号"},
+          {"key": "Back", "value": "戻る"},
+          {"key": "NotOrderYet", "value": "予約されていない方は"},
+          {"key": "DontRemember", "value": "予約番号を忘れた方は"},
+          {"key": "Here", "value": "こちら"}
       ]
       }, 
       {
       "code": "ko-KR",
       "content": 
       [
-          {"key": "HelloWorld", "value": "HelloWorld"}
+          {"key": "HelloWorld", "value": "こんにちは"},
+          {"key": "ReservationNumber", "value": "予約番号"},
+          {"key": "Back", "value": "戻る"},
+          {"key": "NotOrderYet", "value": "予約されていない方は"},
+          {"key": "DontRemember", "value": "予約番号を忘れた方は"},
+          {"key": "Here", "value": "こちら"}
       ]
       }
   ],
