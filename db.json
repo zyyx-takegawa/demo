@@ -17,7 +17,7 @@
       "content": 
       [
           {"key": "HelloWorld", "value": "こんにちは"},
-          {"key": "ReservationNumber", "value": "予約番号"},
+          {"key": "ReservationNumber", "value": "予約番号："},
           {"key": "Back", "value": "戻る"},
           {"key": "NotOrderYet", "value": "予約されていない方は"},
           {"key": "DontRemember", "value": "予約番号を忘れた方は"},
@@ -29,8 +29,8 @@
       "content": 
       [
           {"key": "HelloWorld", "value": "HelloWorld"},
-          {"key": "ReservationNumber", "value": "Reservation Numbser"},
-          {"key": "Back", "value": "戻る"},
+          {"key": "ReservationNumber", "value": "Reservation Numbser:"},
+          {"key": "Back", "value": "Back"},
           {"key": "NotOrderYet", "value": "Unreserved customers"},
           {"key": "DontRemember", "value": "Reservation Number Not Remember"},
           {"key": "Here", "value": "Here"}
