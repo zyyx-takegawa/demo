@@ -16,6 +16,8 @@
       "code": "ja-JP",
       "content": 
       [
+          {"key": "Language", "value": "日本語"},
+          {"key": "Start", "value": "スタート"},
           {"key": "HelloWorld", "value": "こんにちは"},
           {"key": "ReservationNumber", "value": "予約番号："},
           {"key": "Back", "value": "戻る"},
@@ -28,6 +30,8 @@
       "code": "en-US",
       "content": 
       [
+          {"key": "Language", "value": "English"},
+          {"key": "Start", "value": "Start"},        
           {"key": "HelloWorld", "value": "HelloWorld"},
           {"key": "ReservationNumber", "value": "Reservation Numbser:"},
           {"key": "Back", "value": "Back"},
@@ -40,6 +44,8 @@
       "code": "zh-CN",
       "content": 
       [
+          {"key": "Language", "value": "簡体字"},
+          {"key": "Start", "value": "开始"},          
           {"key": "HelloWorld", "value": "こんにちは"},
           {"key": "ReservationNumber", "value": "予約番号"},
           {"key": "Back", "value": "戻る"},
@@ -52,6 +58,8 @@
       "code": "zh-HK",
       "content": 
       [
+          {"key": "Language", "value": "繁体字"},
+          {"key": "Start", "value": "开始"},          
           {"key": "HelloWorld", "value": "こんにちは"},
           {"key": "ReservationNumber", "value": "予約番号"},
           {"key": "Back", "value": "戻る"},
@@ -64,6 +72,8 @@
       "code": "ko-KR",
       "content": 
       [
+          {"key": "Language", "value": "한국어"},
+          {"key": "Start", "value": "출발"},          
           {"key": "HelloWorld", "value": "こんにちは"},
           {"key": "ReservationNumber", "value": "予約番号"},
           {"key": "Back", "value": "戻る"},
