@@ -19,7 +19,7 @@
           {"key": "Language", "value": "日本語"},
           {"key": "Start", "value": "スタート"},
           {"key": "HelloWorld", "value": "こんにちは"},
-          {"key": "ReservationNumber", "value": "予約番号/nor/n電話番号："},
+          {"key": "ReservationNumber", "value": "予約番号@/nor@/n電話番号："},
           {"key": "Back", "value": "戻る"},
           {"key": "NotOrderYet", "value": "予約されていない方は"},
           {"key": "DontRemember", "value": "予約番号を忘れた方は"},
