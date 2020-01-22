@@ -21,7 +21,7 @@
           {"key": "HelloWorld", "value": "こんにちは"},
           {"key": "ReservationNumber", "value": "予約番号\nor\n電話番号"},
           {"key": "Back", "value": "戻る"},
-          {"key": "NotOrderYet", "value": "予約されていない方は"},
+          {"key": "NotOrderYet", "value": "予約されて\nいない方は"},
           {"key": "DontRemember", "value": "予約番号を忘れた方は"},
           {"key": "Here", "value": "こちら"}
       ]
@@ -33,10 +33,10 @@
           {"key": "Language", "value": "English"},
           {"key": "Start", "value": "Start"},        
           {"key": "HelloWorld", "value": "HelloWorld"},
-          {"key": "ReservationNumber", "value": "Reservation Numbser\nor\nPhone Number"},
+          {"key": "ReservationNumber", "value": "ReservationNumber\nor\nPhoneNumber"},
           {"key": "Back", "value": "Back"},
           {"key": "NotOrderYet", "value": "Unreserved customers"},
-          {"key": "DontRemember", "value": "Reservation Number Not Remember"},
+          {"key": "DontRemember", "value": "Reservation Number\n Not Remember"},
           {"key": "Here", "value": "Here"}
       ]
       }, 
@@ -47,9 +47,9 @@
           {"key": "Language", "value": "簡体字"},
           {"key": "Start", "value": "开始"},          
           {"key": "HelloWorld", "value": "こんにちは"},
-          {"key": "ReservationNumber", "value": "予約番号"},
+          {"key": "ReservationNumber", "value": "予約番号\nor\n電話番号"},
           {"key": "Back", "value": "戻る"},
-          {"key": "NotOrderYet", "value": "予約されていない方は"},
+          {"key": "NotOrderYet", "value": "予約されて\nいない方は"},
           {"key": "DontRemember", "value": "予約番号を忘れた方は"},
           {"key": "Here", "value": "こちら"}
       ]
@@ -61,9 +61,9 @@
           {"key": "Language", "value": "繁体字"},
           {"key": "Start", "value": "开始"},          
           {"key": "HelloWorld", "value": "こんにちは"},
-          {"key": "ReservationNumber", "value": "予約番号"},
+          {"key": "ReservationNumber", "value": "予約番号\nor\n電話番号"},
           {"key": "Back", "value": "戻る"},
-          {"key": "NotOrderYet", "value": "予約されていない方は"},
+          {"key": "NotOrderYet", "value": "予約されて\nいない方は"},
           {"key": "DontRemember", "value": "予約番号を忘れた方は"},
           {"key": "Here", "value": "こちら"}
       ]
@@ -75,9 +75,9 @@
           {"key": "Language", "value": "한국어"},
           {"key": "Start", "value": "출발"},          
           {"key": "HelloWorld", "value": "こんにちは"},
-          {"key": "ReservationNumber", "value": "予約番号"},
+          {"key": "ReservationNumber", "value": "予約番号\nor\n電話番号"},
           {"key": "Back", "value": "戻る"},
-          {"key": "NotOrderYet", "value": "予約されていない方は"},
+          {"key": "NotOrderYet", "value": "予約されて\nいない方は"},
           {"key": "DontRemember", "value": "予約番号を忘れた方は"},
           {"key": "Here", "value": "こちら"}
       ]
