@@ -33,9 +33,9 @@
           {"key": "Language", "value": "English"},
           {"key": "Start", "value": "Start"},        
           {"key": "HelloWorld", "value": "HelloWorld"},
-          {"key": "ReservationNumber", "value": "ReservationNumber\nor\nPhoneNumber"},
+          {"key": "ReservationNumber", "value": "Reservation\nor\nPhoneNumber"},
           {"key": "Back", "value": "Back"},
-          {"key": "NotOrderYet", "value": "Unreserved customers"},
+          {"key": "NotOrderYet", "value": "Unreserved\ncustomers"},
           {"key": "DontRemember", "value": "Reservation Number\n Not Remember"},
           {"key": "Here", "value": "Here"}
       ]
