@@ -106,10 +106,10 @@
           {"key": "Nav-TicketExport", "value": "Ticket Export"},
           {"key": "Nav-TicketExportFinish", "value": "Ticket Export Finish"},
           {"key": "Nav-NumberOfPeopleInput", "value": "Number Of People"},
-          {"key": "WG01-02-IntroMessage", "value": "Enter your reservation number \nor use the QR reader to scan the QR code."},
-          {"key": "WG01-02-LimitTimeEnable", "value": "Reception is possible for those who have less than 15 minutes of the reservation time."},
-          {"key": "WG01-02-NotOrderYet", "value": "If you are\nnot reserved"},
-          {"key": "WG01-03-IntroMessage", "value": "Please confirm your reservation and press OK if there is no problem."},
+          {"key": "WG01-02-IntroMessage", "value": ""},
+          {"key": "WG01-02-LimitTimeEnable", "value": ""},
+          {"key": "WG01-02-NotOrderYet", "value": ""},
+          {"key": "WG01-03-IntroMessage", "value": ""},
           {"key": "WG01-03-OrderDetail", "value": "Booking Details"},
           {"key": "WG01-03-OrderDetail-English", "value": ""},
           {"key": "WG01-03-GeneralOption", "value": "General options"},
@@ -125,7 +125,7 @@
           {"key": "WG01-03-TotalAmount", "value": "Total Amount"},
           {"key": "WG01-04-ExportTicket", "value": "Export Ticket"},
           {"key": "WG01-04-NoteConfirmation", "value": "Notes Confirmation"},
-          {"key": "WG01-04-Message", "value": "Thanks. \nBecause it was a customer who used before, \nyou can easily receive it from the ticket issue button. \n (If you want to check the precautions, please press the \nright button.)"},
+          {"key": "WG01-04-Message", "value": ""},
           {"key": "WG01-05-Adult", "value": "Adult"},
           {"key": "WG01-05-Child", "value": "Children"},
           {"key": "WG01-05-Men", "value": "Men"},
@@ -139,41 +139,15 @@
           {"key": "WG01-06-Month", "value": "Month"},
           {"key": "WG01-06-Day", "value": "Day"},
           {"key": "WG01-07-ConfirmCheckbox", "value": "All confirmed"},
-          {"key": "WG01-08-IntroMessage", "value": "Sign required. Please enter your name."},
-          {"key": "WG01-09-IntroMessage", "value": "The reception has been completed. \nReceive a ticket and choose a kimono. \n (You can also choose a plan above the kimono you have reserved.)"},
+          {"key": "WG01-08-IntroMessage", "value": ""},
+          {"key": "WG01-09-IntroMessage", "value": ""},
           {"key": "WG01-09-ExportTicket", "value": "Export Ticket"},
-          {"key": "WG01-10-IntroMessage", "value": "チケットを発券中です。\nしばらくお待ちください。"},
-          {"key": "WG01-10-Exporting", "value": "Ticket is Exporting. Please wait for a while"},
+          {"key": "WG01-10-IntroMessage", "value": ""},
+          {"key": "WG01-10-Exporting", "value": "Exporting"},
           {"key": "WG01-10-Page", "value": "Sheet"},
-          {"key": "WG01-10-Note", "value": "※If you do not get a ticket, please speak to a staff member."},
-          {"key": "WG01-11-IntroMessage", "value": "Thank you for the reception. \nPlease be careful if you forget to get your ticket."},
+          {"key": "WG01-10-Note", "value": ""},
+          {"key": "WG01-11-IntroMessage", "value": ""},
           {"key": "WG01-11-TopScreenBack", "value": "Back to top"}
-      ]
-      }, 
-      {
-      "code": "zh-CN",
-      "content": 
-      [
-          {"key": "Language", "value": "簡体字"},
-          {"key": "Start", "value": "开始"},          
-          {"key": "HelloWorld", "value": "こんにちは"},
-          {"key": "ReservationNumber", "value": "予約番号\nor\n電話番号"},
-          {"key": "Back", "value": "戻る"},
-          {"key": "NotOrderYet", "value": "予約されて\nいない方は"},
-          {"key": "DontRemember", "value": "予約番号を忘れた方は"},
-          {"key": "Here", "value": "こちら"},
-      ]
-      }, 
-      {
-      "code": "zh-HK",
-      "content": 
-      [
-      ]
-      }, 
-      {
-      "code": "ko-KR",
-      "content": 
-      [
       ]
       }
   ],
@@ -203,14 +177,6 @@
           {
             "store_id": 4,
             "store_name": "清水茶わん坂"
-          },
-          {
-            "store_id": 5,
-            "store_name": "嵐山渡月橋"
-          },
-          {
-            "store_id": 6,
-            "store_name": "京都駅前京都タワー"
           }
         ]
       },
@@ -233,14 +199,6 @@
           {
             "store_id": 4,
             "store_name": "清水茶わん坂"
-          },
-          {
-            "store_id": 5,
-            "store_name": "嵐山渡月橋"
-          },
-          {
-            "store_id": 6,
-            "store_name": "京都駅前京都タワー"
           }
         ]
       },
@@ -271,36 +229,6 @@
           {
             "store_id": 6,
             "store_name": "京都駅前京都タワー"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "name": "VN",
-        "stores": [
-          {
-            "store_id": 1,
-            "store_name": "A"
-          },
-          {
-            "store_id": 2,
-            "store_name": "B"
-          },
-          {
-            "store_id": 3,
-            "store_name": "C"
-          },
-          {
-            "store_id": 4,
-            "store_name": "D"
-          },
-          {
-            "store_id": 5,
-            "store_name": "E"
-          },
-          {
-            "store_id": 6,
-            "store_name": "F"
           }
         ]
       }
