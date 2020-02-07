@@ -80,33 +80,6 @@
           {"key": "WG01-11-IntroMessage", "value": "受付ありがとうございました。\nチケットのお取り忘れにはご注意ください。"},
           {"key": "WG01-11-TopScreenBack", "value": "トップに戻る"}
       ]
-      }, 
-      {
-      "code": "en-US",
-      "content": 
-      [
-          {"key": "Language", "value": "English"},
-          {"key": "Start", "value": "Start"},        
-          {"key": "HelloWorld", "value": "HelloWorld"},
-          {"key": "ReservationNumber", "value": "Reservation\nor\nPhoneNumber"},
-          {"key": "Back", "value": "Back"},
-          {"key": "NotOrderYet", "value": "Unreserved\ncustomers"},
-          {"key": "DontRemember", "value": "Reservation Number\n Not Remember"},
-          {"key": "Here", "value": "HERE"},
-          {"key": "Common-Language", "value": "English"},
-          {"key": "Common-Start", "value": "Start"},
-          {"key": "Common-OK", "value": "OK"},
-          {"key": "Common-Back", "value": "Back"},
-          {"key": "Common-Here", "value": "HERE"},
-          {"key": "Nav-ReservationNumberInput", "value": "EnterReservationNumber"},
-          {"key": "Nav-OrderDetail", "value": "Booking Details"},
-          {"key": "Nav-NoteConfirmation", "value": "Notes Confirmation"},
-          {"key": "Nav-Signature", "value": "Signature"},
-          {"key": "Nav-AcceptanceCompleted", "value": "AcceptanceCompleted"},
-          {"key": "Nav-TicketExport", "value": "Ticket Export"},
-          {"key": "Nav-TicketExportFinish", "value": "Ticket Export Finish"},
-          {"key": "Nav-NumberOfPeopleInput", "value": "Number Of People"}
-      ]
       }
   ],
   "WG00-02": {
