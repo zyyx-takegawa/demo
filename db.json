@@ -151,11 +151,6 @@
       ]
       }
   ],
-  "OrderDetail": {
-    "OrderNo": "12345",
-    "OrderDate": "20190819",
-    "CustomerName": "thang"
-  },
   "WG00-02": {
     "areas": [
       {
