@@ -154,6 +154,10 @@
       "code": "ko-KR",
       "content": 
       [
+          {"key": "Language", "value": "English"},
+          {"key": "Start", "value": "Start"},  
+          {"key": "Common-Language", "value": "English"},
+          {"key": "Common-Start", "value": "Start"}
       ]
       }
     ],
