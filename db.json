@@ -133,14 +133,6 @@
           {"key": "WG01-11-IntroMessage", "value": ""},
           {"key": "WG01-11-TopScreenBack", "value": "Back to top"}
       ]
-      }, 
-      {
-      "code": "ko-KR",
-      "content": 
-      [ 
-          {"key": "Common-Language", "value": "English"},
-          {"key": "Common-Start", "value": "Start"}
-      ]
       }
     ],
   "WG00-02": {
