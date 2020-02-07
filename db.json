@@ -16,8 +16,6 @@
       "code": "ja-JP",
       "content": 
       [
-          {"key": "Language", "value": "日本語"},
-          {"key": "Start", "value": "スタート"},
           {"key": "Common-Language", "value": "日本語"},
           {"key": "Common-Start", "value": "スタート"},
           {"key": "Common-OK", "value": "OK"},
@@ -78,9 +76,7 @@
       {
       "code": "en-US",
       "content": 
-      [
-          {"key": "Language", "value": "English"},
-          {"key": "Start", "value": "Start"},        
+      [        
           {"key": "Common-Language", "value": "English"},
           {"key": "Common-Start", "value": "Start"},
           {"key": "Common-OK", "value": "OK"},
@@ -141,9 +137,7 @@
       {
       "code": "ko-KR",
       "content": 
-      [
-          {"key": "Language", "value": "English"},
-          {"key": "Start", "value": "Start"},  
+      [ 
           {"key": "Common-Language", "value": "English"},
           {"key": "Common-Start", "value": "Start"}
       ]
