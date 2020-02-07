@@ -149,14 +149,7 @@
           {"key": "WG01-11-IntroMessage", "value": ""},
           {"key": "WG01-11-TopScreenBack", "value": "Back to top"}
       ]
-      }, 
-      {
-      "code": "ko-KR",
-      "content": 
-      [
-      ]
-      }
-  ],
+      },{"code": "ko-KR","content": []}],
   "WG00-02": {
     "areas": [
       {
