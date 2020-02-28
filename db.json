@@ -11,7 +11,9 @@
   "WG01-07": {
     "url": "https://static2.clutch.co/s3fs-public/logos/zyyx_0.png"
   },
-  "result": {
-    "language_zip": "https://storage.googleapis.com/dung-test-2/Resource/Languages.zip"
+  "WG01-03": {
+      "result": {
+        "language_zip": "https://storage.googleapis.com/dung-test-2/Resource/Languages.zip"
+      }
   }
 }
