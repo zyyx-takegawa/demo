@@ -4,7 +4,7 @@
   },
   "WG01-03": {
       "result": {
-        "language_zip": "https://drive.google.com/uc?export=download&id=1RHdvaGjUmcYJP8OWWhxGGJhxpGusHI1y"
+        "language_zip": "https://wagokoro-module.s3-ap-northeast-1.amazonaws.com/LanguageResource/Languages.zip"
       }
   }
 }
